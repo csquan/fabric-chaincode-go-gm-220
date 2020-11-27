@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric/scripts/fabric-samples/chaincode/abstore/go
+module github.com/csquan/fabric-chaincode-go-gm-220/go/fabric-chaincode-go
 
 go 1.14
 
