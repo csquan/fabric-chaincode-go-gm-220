@@ -1,4 +1,4 @@
-module github.com/csquan/fabric-chaincode-go-gm-220/go/fabric-chaincode-go
+module github.com/csquan/fabric-chaincode-go-gm-220/go
 
 go 1.14
 
